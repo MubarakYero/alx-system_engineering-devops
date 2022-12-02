@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -h vinvent:staff _hello .
+sudo chown -hR vinvent:staff _hello .
